@@ -1,0 +1,1 @@
+Para descargar el proyecto tiene ir a este link: [https://github.com/cai-uba/2025-CAI-Intensivo/archive/refs/heads/master.zip](https://github.com/cai-uba/2025-CAI-Intensivo/archive/refs/heads/master.zip)
