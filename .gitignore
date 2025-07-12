@@ -1,0 +1,60 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+*.dll
+*.exe
+*.app
+*.log
+
+# VS user-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files
+*.designer.cs
+*.g.cs
+*.g.i.cs
+*.pdb
+
+# .NET Core / SDK
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+*.nuspec
+*.psmdcp
+*.nuproj
+
+# Rider
+.idea/
+*.sln.iml
+
+# VS Code
+.vscode/
+
+# Windows image cache
+Thumbs.db
+
+# Other config
+*.vs/
+.vs/
+
+# ReSharper
+_ReSharper*/
+*.DotSettings.user
+
+# Publish folder
+publish/
+
+# Logs
+*.log
+
+# Crash dumps
+*.dmp
