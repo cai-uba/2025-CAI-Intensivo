@@ -10,16 +10,11 @@ using System.Windows.Forms;
 
 namespace Intensivo
 {
-    public partial class MenuPrincipal : Form
+    public partial class FormMenuAlumno : Form
     {
-        public MenuPrincipal()
+        public FormMenuAlumno()
         {
             InitializeComponent();
-        }
-
-        private void MenuPrincipal_Load(object sender, EventArgs e)
-        {
-            MessageBox.Show("");
         }
     }
 }
